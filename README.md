@@ -2,7 +2,7 @@
 
 #Aim:
 
-To analyse the Netflix Predictive analytics is a kind of data mining that uses gathered data to make predictions based on the actions of individuals. Netflix benefits from predictive analytics by using it to predict its users' viewing habits. For example, it uses data collected from its users to determine what movies they'll watch next
+To analyse the customers choice of Netflix programmes.Predictive analytics is a kind of data mining that uses gathered data to make predictions based on the actions of individuals. Netflix benefits from predictive analytics by using it to predict its users' viewing habits. For example, it uses data collected from its users to determine what movies they'll watch next
 
 Datas:
 show_id,
