@@ -25,3 +25,4 @@ Here, I analyzed the TV shows and Movies of Netflix
 
 <img width="951" alt="Screenshot 2023-03-31 142259-Netflix github" src="https://user-images.githubusercontent.com/124794009/229136977-7d69230d-fee4-4c22-9d73-dc03d38f63de.png">
 
+![Netflix](https://public.tableau.com/views/NetflixdataAnalysisprojectusingTableauwithDataset/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
